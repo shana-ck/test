@@ -1,10 +1,10 @@
 import { Label } from './types.js';
 
-export const DELETE = 'insert-rkey-of-delete-post-here';
+export const DELETE = '3linde33ojv2f';
 export const LABEL_LIMIT = 1;
 export const LABELS: Label[] = [
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3linde2gs3a26',
     identifier: 'earth',
     locales: [
       { lang: 'en', name: 'Earth 🌎', description: 'Earth'},
@@ -12,7 +12,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3linde2kopj2u',
     identifier: 'fire',
     locales: [
       { lang: 'en', name: 'Fire 🔥', description: 'Fire'},
@@ -20,7 +20,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3linde2p6wf23',
     identifier: 'air',
     locales: [
       { lang: 'en', name: 'Air 💨', description: 'Air'},
@@ -28,7 +28,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3linde2tdgy26',
     identifier: 'water',
     locales: [
       { lang: 'en', name: 'Water 💧', description: 'Water'},
@@ -36,7 +36,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    rkey: 'insert-rkey-here',
+    rkey: '3linde2xcvh2k',
     identifier: 'love',
     locales: [
       { lang: 'en', name: 'Love 💞', description: 'Love'},
